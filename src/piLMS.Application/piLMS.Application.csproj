@@ -10,4 +10,13 @@
     <ProjectReference Include="..\piLMS.Domain\piLMS.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Abstractions\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Features\" />
+    <Folder Include="Authorization\" />
+    <Folder Include="Common\" />
+    <Folder Include="Validation\" />
+  </ItemGroup>
+
 </Project>

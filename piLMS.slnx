@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/piLMS.Api/piLMS.Api.csproj" Id="71604c72-4684-401a-a50a-ccdbe837efe9" />
+    <Project Path="piLMS.Api/piLMS.Api.csproj" Id="c38b35d3-a196-461e-bb7f-8a95ec377f73" />
     <Project Path="src/piLMS.Application/piLMS.Application.csproj" Id="2e0e4892-311d-4ad8-930c-0e1fcb6967d9" />
     <Project Path="src/piLMS.Domain/piLMS.Domain.csproj" Id="b49f8ebf-a1c9-443b-bac6-b1952cb36f19" />
     <Project Path="src/piLMS.Infrastructure/piLMS.Infrastructure.csproj" Id="68eb2941-acdd-43a6-932a-eb60bd19a486" />
