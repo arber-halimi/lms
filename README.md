@@ -5,16 +5,19 @@ MathLMS is a production-grade backend for an online mathematics learning platfor
 ## Technology
 
 - ASP.NET Core Web API
-- SQL Server
 - Modular Monolith
 - Clean Architecture principles
-- Role, permission and ownership-based authorization
 - Testing-first production practices
+
+Planned for later tasks:
+
+- SQL Server persistence
+- Role, permission and ownership-based authorization
 
 ## Solution Structure
 
-- `MathLMS.Api` - Web API layer
-- `MathLMS.Application` - Application logic and use cases
-- `MathLMS.Domain` - Domain entities and business rules
-- `MathLMS.Infrastructure` - Database and external infrastructure
-- `MathLMS.Tests` - Automated tests
+- `src/piLMS.Api` - Web API entry point
+- `src/piLMS.Application` - Application logic and use cases
+- `src/piLMS.Domain` - Domain model and business rules
+- `src/piLMS.Infrastructure` - Infrastructure integrations
+- `tests/piLMS.Tests` - Automated tests

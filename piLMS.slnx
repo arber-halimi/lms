@@ -1,11 +1,11 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="piLMS.Api/piLMS.Api.csproj" Id="71604c72-4684-401a-a50a-ccdbe837efe9" />
-    <Project Path="piLMS.Application/piLMS.Application.csproj" Id="2e0e4892-311d-4ad8-930c-0e1fcb6967d9" />
-    <Project Path="piLMS.Domain/piLMS.Domain.csproj" Id="b49f8ebf-a1c9-443b-bac6-b1952cb36f19" />
-    <Project Path="piLMS.Infrastucture/piLMS.Infrastucture.csproj" Id="68eb2941-acdd-43a6-932a-eb60bd19a486" />
+    <Project Path="src/piLMS.Api/piLMS.Api.csproj" Id="71604c72-4684-401a-a50a-ccdbe837efe9" />
+    <Project Path="src/piLMS.Application/piLMS.Application.csproj" Id="2e0e4892-311d-4ad8-930c-0e1fcb6967d9" />
+    <Project Path="src/piLMS.Domain/piLMS.Domain.csproj" Id="b49f8ebf-a1c9-443b-bac6-b1952cb36f19" />
+    <Project Path="src/piLMS.Infrastructure/piLMS.Infrastructure.csproj" Id="68eb2941-acdd-43a6-932a-eb60bd19a486" />
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="piLMS.Tests/piLMS.Tests.csproj" Id="c14b0de4-cf84-47a2-8eb2-f1a1a3226af6" />
+    <Project Path="tests/piLMS.Tests/piLMS.Tests.csproj" Id="c14b0de4-cf84-47a2-8eb2-f1a1a3226af6" />
   </Folder>
 </Solution>

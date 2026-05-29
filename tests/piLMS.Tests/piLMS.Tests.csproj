@@ -18,4 +18,11 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\piLMS.Api\piLMS.Api.csproj" />
+    <ProjectReference Include="..\..\src\piLMS.Application\piLMS.Application.csproj" />
+    <ProjectReference Include="..\..\src\piLMS.Domain\piLMS.Domain.csproj" />
+    <ProjectReference Include="..\..\src\piLMS.Infrastructure\piLMS.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

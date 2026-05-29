@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\piLMS.Domain\piLMS.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
